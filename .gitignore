@@ -23,6 +23,13 @@
 # Recordings can get excessive in size
 /[Rr]ecordings/
 
+# Archives
+*.zip
+*.tar
+*.tar.gz
+*.rar
+*.7z
+
 # Uncomment this line if you wish to ignore the asset store tools plugin
 # /[Aa]ssets/AssetStoreTools*
 
